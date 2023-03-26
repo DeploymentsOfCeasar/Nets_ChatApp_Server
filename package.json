@@ -1,0 +1,34 @@
+{
+  "name": "server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "cross-env NODE_ENV=test jest --detectOpenHandles --verbose --runInBand --forceExit",
+    "dev": "cross-env NODE_ENV=development nodemon --inspect ./bin/www",
+    "start": "nodemon --inspect ./bin/www",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "date-fns": "^2.29.3",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.3",
+    "express": "~4.16.1",
+    "gravatar": "^1.8.2",
+    "helmet": "^6.0.1",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.2",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.21",
+    "otp-generator": "^4.0.1",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}

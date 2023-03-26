@@ -1,0 +1,102 @@
+20-03-2023	01:07:16-----GET / ::: This route does not exist.
+20-03-2023	01:07:16-----GET /favicon.ico ::: This route does not exist.
+20-03-2023	05:07:16-----GET /api/v1 ::: No default engine was specified and no extension was provided.
+20-03-2023	44:07:16-----GET /api/v1 ::: res.sed is not a function
+20-03-2023	00:41:16-----POST /api/v1/auth/signin ::: This route does not exist.
+20-03-2023	25:41:16-----POST /api/v1/auth/signin ::: This route does not exist.
+20-03-2023	33:41:16-----POST /api/v1/auth/signin ::: This route does not exist.
+20-03-2023	52:41:16-----POST /api/v1/auth/user ::: This route does not exist.
+20-03-2023	03:42:16-----POST /api/v1/user/get-users ::: This route does not exist.
+20-03-2023	34:42:16-----POST /api/v1/user/get-users ::: This route does not exist.
+20-03-2023	50:42:16-----POST /api/v1/user/signin ::: This route does not exist.
+20-03-2023	54:42:16-----POST /api/v1/user/get-users ::: This route does not exist.
+20-03-2023	33:47:16-----POST /api/v1/auth/signin ::: data is not defined
+21-03-2023	27:52:09-----POST /api/v1/auth/register ::: This route does not exist.
+21-03-2023	35:52:09-----POST /api/v1/auth/register ::: This route does not exist.
+21-03-2023	32:53:09-----POST /api/v1/auth/register ::: This route does not exist.
+21-03-2023	24:54:09-----POST /api/v1/auth/register ::: This route does not exist.
+21-03-2023	41:54:09-----POST /api/v1/auth/register ::: This route does not exist.
+21-03-2023	33:55:09-----POST /api/v1/auth/register ::: This route does not exist.
+21-03-2023	48:55:09-----POST /api/v1/auth/register ::: This route does not exist.
+21-03-2023	28:56:09-----POST /api/v1/auth/register ::: This route does not exist.
+21-03-2023	46:50:10-----POST /api/v1/auth/register ::: otpMail is not a function
+21-03-2023	29:31:11-----POST /api/v1/auth/verify-otp ::: Error verify OTP
+21-03-2023	38:32:11-----POST /api/v1/auth/verify-otp ::: Error verify OTP
+21-03-2023	45:48:13-----POST /api/v1/auth/reset-password ::: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+21-03-2023	13:49:13-----POST /api/v1/auth/reset-password ::: Error reset Password
+21-03-2023	41:49:13-----POST /api/v1/auth/reset-password ::: Error reset Password
+21-03-2023	54:49:13-----POST /api/v1/auth/reset-password ::: Error reset Password
+21-03-2023	59:49:13-----POST /api/v1/auth/reset-password ::: Error reset Password
+21-03-2023	09:50:13-----POST /api/v1/auth/reset-password ::: Error reset Password
+21-03-2023	52:55:13-----POST /api/v1/auth/reset-password ::: Error reset Password
+21-03-2023	24:56:13-----POST /api/v1/auth/reset-password ::: Error reset Password
+21-03-2023	02:57:13-----POST /api/v1/auth/reset-password ::: Error reset Password
+21-03-2023	28:57:13-----POST /api/v1/auth/reset-password ::: Error reset Password
+21-03-2023	56:58:13-----POST /api/v1/auth/reset-password ::: Error reset Password
+21-03-2023	31:06:19-----GET / ::: This route does not exist.
+21-03-2023	32:06:19-----GET /favicon.ico ::: This route does not exist.
+21-03-2023	38:06:19-----GET /api/v1 ::: This route does not exist.
+21-03-2023	47:06:19-----GET /api/v1/auth/register ::: This route does not exist.
+22-03-2023	17:09:16-----GET /favicon.ico ::: This route does not exist.
+23-03-2023	41:59:12-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	51:59:12-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	56:01:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	19:02:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	50:04:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	24:07:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	23:08:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	29:09:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	39:11:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	36:14:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	12:16:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	54:18:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	36:19:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	54:19:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	15:23:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	54:23:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	50:24:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	05:25:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	21:25:13-----POST /api/v1/server/create ::: Error create Server
+23-03-2023	49:56:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	49:56:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	58:56:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	58:56:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	59:56:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	59:56:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	04:57:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	04:57:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	05:57:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	05:57:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	53:58:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	24:59:20-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	21:00:21-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	22:01:21-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	43:03:21-----GET /api/v1/server/all ::: Error get All Server
+23-03-2023	04:04:21-----GET /api/v1/server/all ::: Error get All Server
+24-03-2023	51:42:10-----GET /api/v1/server/all ::: Error get All Server
+24-03-2023	26:43:10-----GET /api/v1/server/all ::: Error get All Server
+24-03-2023	30:44:10-----GET /api/v1/server/all ::: Error get All Server
+24-03-2023	07:56:10-----GET /api/v1/server/all ::: Error get All Server
+24-03-2023	41:00:11-----GET /api/v1/server/all ::: Error get All Server
+24-03-2023	27:02:11-----GET /api/v1/server/all ::: Error get All Server
+24-03-2023	57:02:11-----GET /api/v1/server/all ::: Error get All Server
+24-03-2023	27:04:11-----GET /api/v1/server/all ::: Error get All Server
+24-03-2023	06:18:14-----POST /api/v1/auth/register ::: Error registering
+24-03-2023	20:22:14-----POST /api/v1/auth/register ::: Error registering
+24-03-2023	52:23:14-----POST /api/v1/auth/register ::: Error registering
+24-03-2023	44:24:14-----POST /api/v1/auth/register ::: Error registering
+24-03-2023	57:24:14-----POST /api/v1/auth/register ::: Error registering
+24-03-2023	38:22:15-----POST /api/v1/server/access ::: Unexpected token } in JSON at position 82
+25-03-2023	09:34:10-----GET /api/v1/user/get-user ::: User is not defined
+25-03-2023	27:34:10-----GET /api/v1/user/get-user ::: User is not defined
+25-03-2023	49:34:10-----GET /api/v1/user/get-user ::: User is not defined
+25-03-2023	29:35:10-----GET /api/v1/user/get-user ::: User is not defined
+25-03-2023	19:36:10-----GET /api/v1/user/get-user ::: User is not defined
+25-03-2023	27:36:10-----GET /api/v1/user/get-user ::: User is not defined
+25-03-2023	04:37:10-----GET /api/v1/user/get-user ::: User is not defined
+25-03-2023	09:37:10-----GET /api/v1/user/get-user ::: User is not defined
+25-03-2023	28:37:10-----GET /api/v1/user/get-user ::: Cannot access 'this_user' before initialization
+25-03-2023	39:37:10-----GET /api/v1/user/get-user ::: User is not defined
+25-03-2023	44:16:11-----GET /api/v1/user/get-user ::: jwt malformed
+26-03-2023	24:19:15-----GET /api/v1/user/get-user ::: jwt malformed
+26-03-2023	24:19:15-----GET /api/v1/user/get-user ::: jwt malformed
